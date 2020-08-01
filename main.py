@@ -1,7 +1,7 @@
 import zmagi
 import config
 import telebot
-
+// Zmagi is name of bot
 
 bot = telebot.TeleBot(config.token)
 
